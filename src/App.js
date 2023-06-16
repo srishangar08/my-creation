@@ -11,7 +11,7 @@ function App() {
            <div className="App">
             <ul className="App-header">
               <li>
-                <Link to="/">Home</Link>
+                <Link to="/"></Link>
               </li>
               <li>
                 {/* <Link to="/about">About Us</Link> */}
